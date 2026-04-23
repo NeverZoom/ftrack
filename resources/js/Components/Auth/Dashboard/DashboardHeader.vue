@@ -16,8 +16,8 @@ import { Link } from '@inertiajs/vue3';
           </Link>
         </div>
         <div class="col-12 balance-info">
-          <span>Текущий баланс</span>
-          <h2>1 000 000,40 ₽</h2>
+          <!-- <span>Текущий баланс</span> -->
+          <!-- <h2>1 000 000,40 ₽</h2> -->
         </div>
         <div class="col-12">
           <div class="stats_wrapper">

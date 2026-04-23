@@ -15,7 +15,7 @@ import { Head } from '@inertiajs/vue3';
 
         <DashboardHeader />
         <CalendarTrigger/>
-        <GoalsSlider/>
+        <!-- <GoalsSlider/> -->
         <TransactionList :transactions="$page.props.transactions" />
 
     </AuthenticatedLayout>

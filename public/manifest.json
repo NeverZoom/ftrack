@@ -1,0 +1,59 @@
+{
+    "name": "FTrack",
+    "short_name": "LPT",
+    "start_url": "/index.php",
+    "background_color": "#fafbfd",
+    "description": "Finance tracke by @neverzoom",
+    "display": "fullscreen",
+    "theme_color": "#fafbfd",
+    "icons": [
+        {
+            "src": "icon/icon-72x72.png?v=1776945455",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icon/icon-96x96.png?v=1776945455",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icon/icon-128x128.png?v=1776945455",
+            "sizes": "128x128",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icon/icon-144x144.png?v=1776945455",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icon/icon-152x152.png?v=1776945455",
+            "sizes": "152x152",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icon/icon-192x192.png?v=1776945455",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icon/icon-384x384.png?v=1776945455",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icon/icon-512x512.png?v=1776945455",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}

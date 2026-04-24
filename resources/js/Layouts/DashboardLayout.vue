@@ -31,7 +31,7 @@ body {
     background: $bg;
 }
 .menu_wrapper_h {
-    margin-bottom: 100px;
+    margin-bottom: 110px;
     display: block;
 }
 </style>

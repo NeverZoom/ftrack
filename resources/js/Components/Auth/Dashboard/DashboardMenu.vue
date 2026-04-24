@@ -85,7 +85,7 @@ provide('modalActions', {openModal, closeModal})
   // right: 10px;
   left: 50%;
   transform: translateX(-50%);
-  bottom: 16px;
+  bottom: 25px;
   z-index: 10;
   .menu__item {
     a {

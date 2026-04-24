@@ -123,6 +123,7 @@ const removeActive = () => {
       padding: 5px 24px;
       background: $light-grey;
       border-radius: 20px;
+      white-space: nowrap;
     }
   }
 </style>
